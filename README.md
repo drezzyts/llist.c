@@ -6,10 +6,10 @@ Llist.c is a simple library that provides a linked list structure and methods to
 
 ## Summary
 
-* [Creating a list](#creating-a-vector)
-* [Inserting values into a list](#inserting-values-into-a-vector)
-* [Removing values of a list](#removing-values-of-a-vector)
-* [Getting values of a list](#getting-values-of-a-vector)
+* [Creating a linked list](#creating-a-linked-list)
+* [Inserting values into a linked list](#inserting-values-into-a-linked-list)
+* [Removing values of a linked list](#removing-values-of-a-linked-list)
+* [Getting values of a linked list](#getting-values-of-a-linked-list)
 * [Deleting specific values](#deleting-specific-values)
 
 ## Usage
